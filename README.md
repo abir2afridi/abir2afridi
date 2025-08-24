@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Abir+Hasan+Siam;Full-Stack+Developer+|+Tech+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Abir+Hasan+Siam;Full-Stack+Developer;Tech+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,6 @@
 ---
 
 ### 🧠 About Me
-
 👋 Hi! I'm **Abir Hasan Siam** from **Gazipur, Dhaka**  
 🎓 Final year **CSE** student at **Independent University, Bangladesh**  
 💻 Passionate about **Web & Mobile Development, AI/ML, Robotics & Cloud**  
@@ -155,6 +154,6 @@
 🗓️ Birthday : November 17, 2002
 🩸 Blood     : B+
 💻 Portfolio : Coming Soon...
-📱 Mobile    : +8801XXXXXXXXX
+📱 Mobile    : +8801768220031
 🌐 Website   : Coming Soon...
 ⚡ Availability: Open for projects, freelancing & collaborations
