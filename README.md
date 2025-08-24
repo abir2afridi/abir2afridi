@@ -157,3 +157,8 @@
 📱 Mobile    : +8801768220031
 🌐 Website   : Coming Soon...
 ⚡ Availability: Open for projects, freelancing & collaborations
+### 📈 GitHub Activity Analysis (Visual)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/git%20analysis.png" width="800" alt="GitHub Activity Analysis" />
+</p>
