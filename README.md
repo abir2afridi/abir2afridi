@@ -113,6 +113,39 @@
 
 ---
 
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Abir's GitHub Stats" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=radical" alt="Top Languages" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir2afridi&theme=radical" alt="GitHub Streak" width="600"/>
+</p>
+
+---
+
+### 💯 Skill Percentages (Visual Badges)
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-95%25-red?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-80%25-green?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-70%25-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-75%25-black?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-80%25-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+---
+
 ### 📬 Contact Info
 ```bash
 📧 Email     : abir2afridi@gmail.com
