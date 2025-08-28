@@ -1,6 +1,6 @@
-<!-- Top Section GIF Banner -->
+<!-- 🌊 Wavy Top Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4wcTZzOWthNDNwcXM2amg3NWIxMG51ZjEwZmd4dTh1a21uenlscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Top Banner GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=250&section=header&text=Hi%20there!%20I'm%20Abir%20Hasan%20Siam%20🀄😴🫡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
@@ -60,6 +60,10 @@
 
 ### 🛠️ Skills & Technologies
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4wcTZzOWthNDNwcXM2amg3NWIxMG51ZjEwZmd4dTh1a21uenlscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" alt="Coding GIF" />
+</p>
+
 #### 💻 Programming Languages
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-95%25-red?style=for-the-badge&logo=html5&logoColor=white" />
@@ -91,15 +95,15 @@
 ### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Abir's GitHub Stats" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="Abir's GitHub Stats" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=radical" alt="Top Languages" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=react" alt="Top Languages" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir2afridi&theme=radical" alt="GitHub Streak" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir2afridi&theme=react" alt="GitHub Streak" width="600"/>
 </p>
 
 ---
