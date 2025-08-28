@@ -22,6 +22,10 @@
 
 ### 🧠 About Me
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="About Me GIF" />
+</p>
+
 👋 Hi! I'm **Abir Hasan Siam** from **Gazipur, Dhaka**  
 🎓 Final year **CSE** student at **Independent University, Bangladesh**  
 💻 Passionate about **Web & Mobile Development, AI/ML, Robotics & Cloud**  
@@ -34,13 +38,13 @@
 🌐 Languages: English (Fluent), Bengali (Native), Python, JavaScript, Java, C++  
 🧠 Hobbies: Coding, Gaming, Reading Tech Blogs, Arm Wrestling, Fitness & Gym  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="About Me GIF" />
-</p>
-
 ---
 
 ### 🎯 Career Goals
+
+<p align="center">
+  <img src="https://i.gifer.com/ODqW.gif" width="250" alt="Career Goals GIF" />
+</p>
 
 - Become a **Full-Stack Developer**  
 - Build **impactful open-source projects**  
@@ -51,10 +55,6 @@
 - Grow **freelancing & tech consulting career**  
 - Participate in **Hackathons & Coding Competitions**  
 - Create **tutorials & content for developers**  
-
-<p align="center">
-  <img src="https://i.gifer.com/ODqW.gif" width="250" alt="Career Goals GIF" />
-</p>
 
 ---
 
@@ -133,9 +133,9 @@
 📍 Location  : Gazipur, Dhaka, Bangladesh
 🎓 University: Independent University, Bangladesh
 🏡 From      : Tangail
-🗓️ Birthday : November 17, 2002
+🗓️ Birthday : November 17, 2004
 🩸 Blood     : B+
 💻 Portfolio : Coming Soon...
-📱 Mobile    : +8801XXXXXXXXX
+📱 Mobile    : +8801768220031
 🌐 Website   : Coming Soon...
 ⚡ Availability: Open for projects, freelancing & collaborations
