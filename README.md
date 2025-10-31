@@ -140,6 +140,6 @@
 🌐 Website   : Coming Soon...
 ⚡ Availability: Open for projects, freelancing & collaborations
 
-### Private Project List:
+🔐Private Project List:
 1. BuyBlazeArt  | Link: https://buy-blaze-art.vercel.app/
 2. EduCareer Ai | Link: https://edu-career-ai-tan.vercel.app/
