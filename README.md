@@ -1,145 +1,114 @@
-<!-- 🌊 Wavy Top Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=250&section=header&text=Hi%20there!%20I'm%20Abir%20Hasan%20Siam%20🀄😴🫡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,45,67&height=280&section=header&text=Abir%20Hasan%20Siam&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Turning%20Coffee%20Into%20Code%20Since%202021&descAlign=50&descAlignY=60&descSize=25&animation=twinkling" width="100%"/>
+</div>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B,+I'm+Abir+Hasan+Siam;Full-Stack+Developer+and+Tech+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3F8CFF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Full-Stack+Dreamer+%7C+AI+Explorer;Building+the+Future+with+Code;Java+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Cloud" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abir2afridi&label=Profile+Views&color=00bfff&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/abir2afridi?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
-  <img src="https://img.shields.io/badge/Availability-Hiring-green" />
-  <img src="https://img.shields.io/badge/Portfolio-ComingSoon-orange" />
-  <img src="https://img.shields.io/badge/Experience-Intermediate-yellow" />
-  <img src="https://img.shields.io/badge/Contribution-Open-success" />
-</p>
+<div align="center">
+  <a href="https://github.com/abir2afridi">
+    <img src="https://komarev.com/ghpvc/?username=abir2afridi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/abir2afridi?tab=followers">
+    <img src="https://img.shields.io/github/followers/abir2afridi?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  </a>
+    <img src="https://img.shields.io/badge/Status-Hiring-success?style=flat-square" alt="Status" />
+</div>
 
----
+<br />
 
-### 🧠 About Me
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abir2afridi&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="About Me GIF" />
-</p>
+<br />
 
-👋 Hi! I'm **Abir Hasan Siam** from **Gazipur, Dhaka**  
-🎓 Final year **CSE** student at **Independent University, Bangladesh**  
-💻 Passionate about **Web & Mobile Development, AI/ML, Robotics & Cloud**  
-🛠️ Love building tools, apps, and solving real-world problems  
-📚 Currently learning: `Java (FXML)`, `Spring Boot`, `React`, `Next.js`, `MongoDB`, `Firebase`, `Kotlin`, `Docker`, `AI/ML`, `Cloud & DevOps`  
-💡 Interests: Full-Stack Dev, AI, Robotics, Cloud Computing, DevOps, CI/CD  
-🧩 Personality: Fun, Curious, Lifelong Learner & Occasional Philosopher  
-🎯 Strengths: Problem Solving, Quick Learner, Analytical Thinking, Adaptable, Multi-tasking  
-🗣️ Soft Skills: Leadership, Communication, Creativity, Teamwork, Time Management, Presentation  
-🌐 Languages: English (Fluent), Bengali (Native), Python, JavaScript, Java, C++  
-🧠 Hobbies: Coding, Gaming, Reading Tech Blogs, Arm Wrestling, Fitness & Gym  
+### 👨‍💻 **About Me**
+> *"Code is like humor. When you have to explain it, it’s bad."*
 
----
+I'm **Abir**, a Computer Science student at **Independent University, Bangladesh**. I specialize in building scalable web applications and exploring the frontiers of Artificial Intelligence. My journey is defined by a curiosity to understand "how it works" and a drive to make it work *better*, *faster*, and *cleaner*.
 
-### 🎯 Career Goals
-
-<p align="center">
-  <img src="https://i.gifer.com/ODqW.gif" width="250" alt="Career Goals GIF" />
-</p>
-
-- Become a **Full-Stack Developer**  
-- Build **impactful open-source projects**  
-- Launch a **startup solving real-world problems**  
-- Contribute to **global developer communities**  
-- Explore **AI, Robotics & Cloud Technologies**  
-- Master **DevOps & CI/CD pipelines**  
-- Grow **freelancing & tech consulting career**  
-- Participate in **Hackathons & Coding Competitions**  
-- Create **tutorials & content for developers**  
+*   🔭 **Working on**: Advanced Microservices & AI-driven Web Apps.
+*   🌱 **Learning**: Kubernetes, System Design, and Cloud Architecture.
+*   ⚡ **Hobby**: Competitive Programming & exploring new Tech Stacks.
 
 ---
 
-### 🛠️ Skills & Technologies
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW4wcTZzOWthNDNwcXM2amg3NWIxMG51ZjEwZmd4dTh1a21uenlscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" alt="Coding GIF" />
-</p>
-
-#### 💻 Programming Languages
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-95%25-red?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-70%25-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-80%25-green?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C-60%25-blue?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-65%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-70%25-blue?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-#### ⚛️ Frameworks & Libraries
-<p align="center">
-<img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-70%25-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-75%25-black?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-85%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-80%25-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-70%25-green?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-75%25-blue?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-75%25-purple?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+### 🛠️ **Tech Stack**
+<div align="center">
+  <p><b>Languages & Frameworks</b></p>
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,php&perline=10" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,spring,flutter,redux&perline=10" />
+  <br>
+  <p><b>Tools, Cloud & Databases</b></p>
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,docker,git,github,vercel,vscode,idea,androidstudio,linux&perline=12" />
+</div>
 
 ---
 
-### 📊 GitHub Stats & Languages
+### 📊 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="Abir's GitHub Stats" width="600"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abir2afridi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=react" alt="Top Languages" width="600"/>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir2afridi&theme=react" alt="GitHub Streak" width="600"/>
-</p>
-
----
-
-### 🧮 Profile Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/git%20analysis.png" alt="Profile Analysis"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/abir2afridi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/abir2afridi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://instagram.com/abir2afridi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://fb.com/abir2afridi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://github.com/abir2afridi"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+         <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir2afridi&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%"/>
+</div>
 
 ---
 
-### 📬 Contact Info
-```bash
-📧 Email     : abir2afridi@gmail.com
-📍 Location  : Gazipur, Dhaka, Bangladesh
-🎓 University: Independent University, Bangladesh
-🏡 From      : Tangail
-🗓️ Birthday : November 17, 2004
-🩸 Blood     : B+
-💻 Portfolio : Coming Soon...
-📱 Mobile    : +8801768220031
-🌐 Website   : Coming Soon...
-⚡ Availability: Open for projects, freelancing & collaborations
+### 🌟 **Featured Projects**
 
-🔐Private Project List:
-1. BuyBlazeArt  | Link: https://buy-blaze-art.vercel.app/
-2. EduCareer Ai | Link: https://edu-career-ai-tan.vercel.app/
+| **Project** | **Description** | **Links** |
+|:---:|:---|:---:|
+| <img src="https://github.com/abir2afridi/BuyBlazeArt/raw/main/public/logo.png" width="40" alt="icon"/> <br/> **BuyBlazeArt** | An immersive e-commerce platform for art enthusiasts featuring a modern UI and seamless checkout. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=vercel)](https://buy-blaze-art.vercel.app/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="40" alt="icon"/> <br/> **EduCareer AI** | AI-powered career counseling tool helping students find their perfect path. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=vercel)](https://edu-career-ai-tan.vercel.app/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="40" alt="icon"/> <br/> **CosmicExplore** | A gateway to the universe. Explore astronomy data through a beautiful interface. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/CosmicExplore) |
+
+---
+
+### 🤝 **Connect With Me**
+<div align="center">
+  <a href="https://linkedin.com/in/abir2afridi">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:abir2afridi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://instagram.com/abir2afridi">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://twitter.com/abir2afridi">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://discord.com/users/abir2afridi">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
