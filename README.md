@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,45,67&height=300&section=header&text=Abir%20Hasan%20Siam&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Android%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=50&descAlignY=55&descSize=25&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,50,75,100&height=320&section=header&text=Abir%20Hasan%20Siam&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=28&desc=Android%20Architect%20%7C%20Full%20Stack%20Visionary&descAlign=50&descAlignY=51&descSize=25&animation=fadeIn&stroke=000000" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=500&lines=Crafting+Native+Android+Experiences;Building+Scalable+Web+Systems;Exploring+AI+and+Cloud+Native;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Crafting+High-Performance+Android+Apps;Architecting+Scalable+Cloud+Solutions;Innovating+with+AI+and+System+Design;Turning+Complex+Problems+into+Simple+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,8 +15,10 @@
   <a href="https://github.com/abir2afridi?tab=followers">
     <img src="https://img.shields.io/github/followers/abir2afridi?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Hiring-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Dev-blueviolet?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Available-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Engineering-blueviolet?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Repositories-50%2B-blue?style=flat-square" alt="Repositories" />
 </div>
 
 <br />
@@ -102,12 +104,19 @@ Whether I'm writing **Kotlin** for a native Android app or architecting a **Next
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=tokyonight" height="180" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=tokyonight" height="180" alt="langs"/>
+  <a href="https://github.com/abir2afridi">
+    <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  </a>
 </div>
-<br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir2afridi&theme=tokyonight" alt="streak"/>
+  <a href="https://github.com/abir2afridi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/abir2afridi">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=abir2afridi&theme=midnight-purple&hide_border=true" alt="Streak Stats" />
+  </a>
 </div>
 
 ---
