@@ -24,36 +24,56 @@
 <br />
 
 ### 🧐 **About Me**
+
+<br/>
+
 <div align="center">
-  <h4><i>"I build software that matters."</i></h4>
+  <table border="0">
+    <tr>
+      <td width="60%" align="left" valign="top">
+        <h3><i>"Architecting excellence, one line at a time."</i></h3>
+        <p>
+          I am <b>Abir Hasan Siam</b>, a <b>Software Architect</b> and <b>CS Student</b> at <b>Independent University, Bangladesh</b>. I specialize in the intersection of <b>Native Android</b> and <b>Full-Stack Web</b> ecosystems. 
+        </p>
+        <p>
+          My work is defined by a relentless drive to optimize <b>System Performance</b> and a dedication to <b>Clean Architecture</b>. I believe software should be as <i>robust</i> as it is <i>beautiful</i>.
+        </p>
+        <br/>
+        <div align="left">
+          <img src="https://img.shields.io/badge/Architecture-Clean_%26_Scalable-0e75b6?style=flat-square&logo=blueprint" />
+          <img src="https://img.shields.io/badge/Passion-Open_Source-2ea44f?style=flat-square&logo=github" />
+          <img src="https://img.shields.io/badge/Focus-Mobile_Engineering-ff69b4?style=flat-square&logo=android" />
+        </div>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ1c252N252N252N252N252N252N252N252N252N252N252N252N252N252N2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-I'm **Abir**, a dedicated **Computer Science** student at **Independent University, Bangladesh**.  
-I am a passionate **Software Engineer** focused on bridging the gap between sophisticated backend logic and intuitive user interfaces. My journey is defined by a deep curiosity for **System Architecture** and a relentless drive to optimize performance.
-
-Whether I'm writing **Kotlin** for a native Android app or architecting a **Next.js** web platform, my goal remains the same: **Efficiency, Scalability, and Clean Code**.
+<br/>
 
 <div align="center">
-  <br/>
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" align="left" valign="top">
          <h3>🔭 Current Focus</h3>
-         <p>Developing <b>A2Orbit Player</b>, a high-fidelity music engine, and architecting unopinionated <b>File Management</b> systems for Android.</p>
+         <p>Developing <b>A2Orbit Player</b>, a high-fidelity music engine, and architecting <b>File Management</b> systems for Android.</p>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" align="left" valign="top">
          <h3>🌱 Technical Growth</h3>
-         <p>Deep diving into <b>Jetpack Compose</b>, <b>KMP (Kotlin Multiplatform)</b>, and <b>Microservices</b> architecture.</p>
+         <p>Deep diving into <b>Jetpack Compose</b>, <b>Kotlin Multiplatform (KMP)</b>, and <b>Microservices</b>.</p>
       </td>
     </tr>
      <tr>
-      <td width="50%" valign="top">
+      <td width="50%" align="left" valign="top">
          <h3>🤝 Collaboration</h3>
-         <p>Open to <b>Freelance</b> opportunities and impactful <b>Open Source</b> contributions. I love working in agile teams.</p>
+         <p>Open for <b>Freelance</b> opportunities and high-impact <b>Open Source</b> contributions.</p>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" align="left" valign="top">
          <h3>⚡ Personal Interests</h3>
-         <p><b>Performance Optimization</b>, <b>Open Source</b>, <b>Gaming</b>, and designing <b>Minimalist UIs</b>.</p>
+         <p><b>Performance Tuning</b>, <b>Open Source</b>, <b>Gaming</b>, and crafting <b>Minimalist UIs</b>.</p>
       </td>
     </tr>
   </table>
@@ -63,20 +83,25 @@ Whether I'm writing **Kotlin** for a native Android app or architecting a **Next
 
 ### 🚀 **What I Do**
 
+<br/>
+
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="33%">
-        <h3>📱 Mobile Development</h3>
-        <p>Expertise in building native Android apps with <b>Kotlin</b> and cross-platform apps with <b>Flutter</b>. Focusing on Clean Architecture and MVVM.</p>
+      <td align="center" width="33%" valign="top">
+        <img src="https://img.icons8.com/isometric/100/smartphone.png" width="60" alt="mobile"/><br/>
+        <h3>Mobile Engineering</h3>
+        <p>Crafting high-performance native Android apps with <b>Kotlin</b> and cross-platform solutions with <b>Flutter</b>. Focusing on <b>Clean Architecture</b>.</p>
       </td>
-      <td align="center" width="33%">
-        <h3>💻 Full Stack Web</h3>
-        <p>Building modern web apps using <b>React, Next.js</b>, and <b>Node.js</b>. Experienced in creating responsive and accessible interfaces.</p>
+      <td align="center" width="33%" valign="top">
+        <img src="https://img.icons8.com/isometric/100/laptop-coding.png" width="60" alt="web"/><br/>
+        <h3>Full Stack Web</h3>
+        <p>Building modern, scalable web applications using <b>Next.js</b>, <b>React</b>, and <b>Node.js</b>. Expert in responsive and accessible design.</p>
       </td>
-      <td align="center" width="33%">
-        <h3>🤖 AI & Cloud</h3>
-        <p>Exploring <b>Machine Learning</b> models and deploying scalable applications using <b>Docker</b> and <b>Cloud Services</b>.</p>
+      <td align="center" width="33%" valign="top">
+        <img src="https://img.icons8.com/isometric/100/artificial-intelligence.png" width="60" alt="ai"/><br/>
+        <h3>AI & Cloud</h3>
+        <p>Exploring <b>Machine Learning</b> and deploying robust applications with <b>Docker</b> and <b>Cloud Services</b>. Optimizing for the future.</p>
       </td>
     </tr>
   </table>
