@@ -144,7 +144,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/rn/preview_sets/previews/7KP_bZDt3E3gVHNJ.webp" width="35"/> **Featured Projects**
+### <img src="https://threedio-prod-var-cdn.icons8.com/df/preview_sets/previews/do5rSxrbI9I-c9AB.webp" width="35"/> **Featured Projects**
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
