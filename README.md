@@ -109,7 +109,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/?size=96&id=gzMYkfKXUiDr&format=png" width="35"/> **Tech Stack**
+### <img src="https://threedio-prod-var-cdn.icons8.com/zi/preview_sets/previews/YGUCSLI6jh62xp4R.webp" width="35"/> **Tech Stack**
 <div align="center">
   <p><b>Mobile & Languages</b></p>
   <br>
