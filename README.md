@@ -46,7 +46,7 @@
         </div>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ1c252N252N252N252N252N252N252N252N252N252N252N252N252N252N2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+        <img src="https://threedio-prod-var-cdn.icons8.com/af/preview_sets/previews/JLGr14E9F5J3buRv.webp" width="230" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
       </td>
     </tr>
   </table>
