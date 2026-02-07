@@ -23,7 +23,7 @@
 
 <br />
 
-### <img src="https://img.icons8.com/?size=160&id=JesOX3f2LVdM&format=png" width="35"/> **About Me**
+### <img src="https://img.icons8.com/?size=96&id=FNbnqlDTjR45&format=gif&color=f7f7f7" width="35"/> **About Me**
 
 <br/>
 
@@ -144,7 +144,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/df/preview_sets/previews/do5rSxrbI9I-c9AB.webp" width="35"/> **Featured Projects**
+### <img src="https://threedio-prod-var-cdn.icons8.com/rn/preview_sets/previews/7KP_bZDt3E3gVHNJ.webp" width="35"/> **Featured Projects**
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
