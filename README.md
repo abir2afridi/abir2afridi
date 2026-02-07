@@ -62,7 +62,7 @@
          <p>Developing <b>A2Orbit Player</b>, a high-fidelity music engine, and architecting <b>File Management</b> systems for Android.</p>
       </td>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://img.icons8.com/?size=160&id=0dbdoPcVxc3N&format=png" width="30"/> Technical Growth</h3>
+         <h3><img src="https://img.icons8.com/?size=160&id=PsAPeKP98vSE&format=png" width="30"/> Technical Growth</h3>
          <p>Deep diving into <b>Jetpack Compose</b>, <b>Kotlin Multiplatform (KMP)</b>, and <b>Microservices</b>.</p>
       </td>
     </tr>
@@ -144,7 +144,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/?size=160&id=aXWPb8Jc52kh&format=png" width="35"/> **Featured Projects**
+### <img src="https://img.icons8.com/?size=160&id=EhEaKbQpE5Qw&format=png" width="35"/> **Featured Projects**
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
