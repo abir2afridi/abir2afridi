@@ -58,21 +58,21 @@
   <table>
     <tr>
       <td width="50%" align="left" valign="top">
-         <h3>🔭 Current Focus</h3>
+         <h3><img src="https://img.icons8.com/?size=160&id=64000&format=png" width="30"/> Current Focus</h3>
          <p>Developing <b>A2Orbit Player</b>, a high-fidelity music engine, and architecting <b>File Management</b> systems for Android.</p>
       </td>
       <td width="50%" align="left" valign="top">
-         <h3>🌱 Technical Growth</h3>
+         <h3><img src="https://img.icons8.com/?size=160&id=0dbdoPcVxc3N&format=png" width="30"/> Technical Growth</h3>
          <p>Deep diving into <b>Jetpack Compose</b>, <b>Kotlin Multiplatform (KMP)</b>, and <b>Microservices</b>.</p>
       </td>
     </tr>
      <tr>
       <td width="50%" align="left" valign="top">
-         <h3>🤝 Collaboration</h3>
+         <h3><img src="https://img.icons8.com/?size=160&id=Ob0j0pZng1Tm&format=png" width="30"/> Collaboration</h3>
          <p>Open for <b>Freelance</b> opportunities and high-impact <b>Open Source</b> contributions.</p>
       </td>
       <td width="50%" align="left" valign="top">
-         <h3>⚡ Personal Interests</h3>
+         <h3><img src="https://img.icons8.com/?size=160&id=sMELDDj7ZcpJ&format=png" width="30"/> Personal Interests</h3>
          <p><b>Performance Tuning</b>, <b>Open Source</b>, <b>Gaming</b>, and crafting <b>Minimalist UIs</b>.</p>
       </td>
     </tr>
