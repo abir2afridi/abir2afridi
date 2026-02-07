@@ -58,7 +58,7 @@
   <table>
     <tr>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://img.icons8.com/?size=160&id=64000&format=png" width="30"/> Current Focus</h3>
+         <h3><img src="https://img.icons8.com/?size=160&id=HshIQgiZ35nI&format=png" width="30"/> Current Focus</h3>
          <p>Developing <b>A2Orbit Player</b>, a high-fidelity music engine, and architecting <b>File Management</b> systems for Android.</p>
       </td>
       <td width="50%" align="left" valign="top">
@@ -68,7 +68,7 @@
     </tr>
      <tr>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://img.icons8.com/?size=160&id=Ob0j0pZng1Tm&format=png" width="30"/> Collaboration</h3>
+         <h3><img src="https://img.icons8.com/?size=160&id=Ut1mhCuyFDJQ&format=png" width="30"/> Collaboration</h3>
          <p>Open for <b>Freelance</b> opportunities and high-impact <b>Open Source</b> contributions.</p>
       </td>
       <td width="50%" align="left" valign="top">
