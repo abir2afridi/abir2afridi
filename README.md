@@ -62,17 +62,17 @@
          <p>Developing <b>A2Orbit Player</b>, a high-fidelity music engine, and architecting <b>File Management</b> systems for Android.</p>
       </td>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://img.icons8.com/?size=160&id=PsAPeKP98vSE&format=png" width="30"/> Technical Growth</h3>
+         <h3><img src="https://threedio-prod-var-cdn.icons8.com/hb/preview_sets/previews/UOKsKnjLZmirOjbR.webp" width="30"/> Technical Growth</h3>
          <p>Deep diving into <b>Jetpack Compose</b>, <b>Kotlin Multiplatform (KMP)</b>, and <b>Microservices</b>.</p>
       </td>
     </tr>
      <tr>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://img.icons8.com/?size=160&id=Ut1mhCuyFDJQ&format=png" width="30"/> Collaboration</h3>
+         <h3><img src="https://threedio-prod-var-cdn.icons8.com/qx/preview_sets/previews/ic7Ov7qv2hFNt6I1.webp" width="30"/> Collaboration</h3>
          <p>Open for <b>Freelance</b> opportunities and high-impact <b>Open Source</b> contributions.</p>
       </td>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://img.icons8.com/?size=160&id=sMELDDj7ZcpJ&format=png" width="30"/> Personal Interests</h3>
+         <h3><img src="https://threedio-prod-var-cdn.icons8.com/qf/preview_sets/previews/g3Am_bPZdVbbO1Vt.webp" width="30"/> Personal Interests</h3>
          <p><b>Performance Tuning</b>, <b>Open Source</b>, <b>Gaming</b>, and crafting <b>Minimalist UIs</b>.</p>
       </td>
     </tr>
@@ -81,7 +81,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/?size=160&id=91CnU00i6HLv&format=png" width="35"/> **What I Do**
+### <img src="https://threedio-prod-var-cdn.icons8.com/jq/preview_sets/previews/gd5yGXS-fZPl1jHH.webp" width="35"/> **What I Do**
 
 <br/>
 
@@ -109,7 +109,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/?size=96&id=gzMYkfKXUiDr&format=png" width="35"/> **Tech Stack**
+### <img src="https://threedio-prod-var-cdn.icons8.com/tj/preview_sets/previews/9aBeBWkPhzC1qEK0.webp" width="35"/> **Tech Stack**
 <div align="center">
   <p><b>Mobile & Languages</b></p>
   <br>
@@ -144,7 +144,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/?size=160&id=EhEaKbQpE5Qw&format=png" width="35"/> **Featured Projects**
+### <img src="https://threedio-prod-var-cdn.icons8.com/wo/preview_sets/previews/QS7oEnf1jrYbjKU5.webp" width="35"/> **Featured Projects**
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
@@ -156,7 +156,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/?size=160&id=96m6a6sN6LI6&format=png" width="35"/> **Philosophy**
+### <img src="https://threedio-prod-var-cdn.icons8.com/ac/preview_sets/previews/YE3VCX9QQQJ-LM-h.webp" width="35"/> **Philosophy**
 
 <div align="center">
   <h3><i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i></h3>
@@ -165,7 +165,7 @@
 
 <br />
 
-### <img src="https://img.icons8.com/?size=160&id=XDH0Z4c2jynP&format=png" width="35"/> **Connect With Me**
+### <img src="https://threedio-prod-var-cdn.icons8.com/hx/preview_sets/previews/YadTnoFNBgMCBY2F.webp" width="35"/> **Connect With Me**
 <div align="center">
   <a href="https://linkedin.com/in/abir2afridi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
