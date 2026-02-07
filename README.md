@@ -23,7 +23,7 @@
 
 <br />
 
-### 🧐 **About Me**
+### <img src="https://img.icons8.com/?size=160&id=JesOX3f2LVdM&format=png" width="35"/> **About Me**
 
 <br/>
 
@@ -81,7 +81,7 @@
 
 ---
 
-### 🚀 **What I Do**
+### <img src="https://img.icons8.com/?size=160&id=91CnU00i6HLv&format=png" width="35"/> **What I Do**
 
 <br/>
 
@@ -109,7 +109,7 @@
 
 ---
 
-### 🛠️ **Tech Stack**
+### <img src="https://img.icons8.com/?size=96&id=gzMYkfKXUiDr&format=png" width="35"/> **Tech Stack**
 <div align="center">
   <p><b>Mobile & Languages</b></p>
   <br>
@@ -126,7 +126,7 @@
 
 ---
 
-### 📊 **GitHub Statistics**
+### <img src="https://img.icons8.com/?size=160&id=ObCtn0GYNM6a&format=png" width="35"/> **GitHub Statistics**
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abir2afridi&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -144,7 +144,7 @@
 
 ---
 
-### 🌟 **Featured Projects**
+### <img src="https://img.icons8.com/?size=160&id=aXWPb8Jc52kh&format=png" width="35"/> **Featured Projects**
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
@@ -156,7 +156,7 @@
 
 ---
 
-### 📜 **Philosophy**
+### <img src="https://img.icons8.com/?size=160&id=96m6a6sN6LI6&format=png" width="35"/> **Philosophy**
 
 <div align="center">
   <h3><i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i></h3>
@@ -165,7 +165,7 @@
 
 <br />
 
-### 🤝 **Connect With Me**
+### <img src="https://img.icons8.com/?size=160&id=XDH0Z4c2jynP&format=png" width="35"/> **Connect With Me**
 <div align="center">
   <a href="https://linkedin.com/in/abir2afridi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
