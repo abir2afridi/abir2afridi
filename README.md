@@ -144,7 +144,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/wo/preview_sets/previews/QS7oEnf1jrYbjKU5.webp" width="35"/> **Featured Projects**
+### <img src="https://threedio-prod-var-cdn.icons8.com/rn/preview_sets/previews/7KP_bZDt3E3gVHNJ.webp" width="35"/> **Featured Projects**
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
@@ -156,7 +156,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/vy/preview_sets/previews/BP5HXWQ3ugjlhsMT.webp" width="35"/> **Philosophy**
+### <img src="https://threedio-prod-var-cdn.icons8.com/pm/preview_sets/previews/U1oWyvFsSy7cVygi.webp" width="35"/> **Philosophy**
 
 <div align="center">
   <h3><i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i></h3>
