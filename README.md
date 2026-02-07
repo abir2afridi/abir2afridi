@@ -126,22 +126,20 @@
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 **GitHub Statistics**
 
 <div align="center">
-  <a href="https://github.com/abir2afridi">
-    <img src="https://github-readme-stats.vercel.app/api?username=abir2afridi&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abir2afridi&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abir2afridi&theme=algolia" alt="Profile Details" />
 </div>
+
+<br/>
+
 <div align="center">
-  <a href="https://github.com/abir2afridi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir2afridi&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/abir2afridi">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=abir2afridi&theme=midnight-purple&hide_border=true" alt="Streak Stats" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=abir2afridi&theme=algolia&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
