@@ -58,7 +58,7 @@
   <table>
     <tr>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://img.icons8.com/?size=160&id=HshIQgiZ35nI&format=png" width="30"/> Current Focus</h3>
+         <h3><img src="https://threedio-prod-var-cdn.icons8.com/jq/preview_sets/previews/gd5yGXS-fZPl1jHH.webp" width="30"/> Current Focus</h3>
          <p>Developing <b>A2Orbit Player</b>, a high-fidelity music engine, and architecting <b>File Management</b> systems for Android.</p>
       </td>
       <td width="50%" align="left" valign="top">
@@ -109,7 +109,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/zi/preview_sets/previews/YGUCSLI6jh62xp4R.webp" width="35"/> **Tech Stack**
+### <img src="https://img.icons8.com/?size=96&id=gzMYkfKXUiDr&format=png" width="35"/> **Tech Stack**
 <div align="center">
   <p><b>Mobile & Languages</b></p>
   <br>
