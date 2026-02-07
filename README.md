@@ -201,5 +201,5 @@
     <b>This repository is protected.</b> Reuse or redistribution without permission is prohibited. <br/>
     <b>For permission requests:</b> <a href="mailto:abir2afridi@gmail.com">abir2afridi@gmail.com</a>
   </p>
-  <code>// © Abir Afridi — All rights reserved</code>
+  <code>© Abir Afridi — All rights reserved</code>
 </div>
