@@ -192,3 +192,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,45,67&height=100&section=footer"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <p align="center">
+    <img src="https://img.icons8.com/?size=96&id=dt8vBKV4sCA3&format=gif&color=f7f7f7" width="30" /> <br/>
+    <b>This repository is protected.</b> Reuse or redistribution without permission is prohibited. <br/>
+    <b>For permission requests:</b> <a href="mailto:abir2afridi@gmail.com">abir2afridi@gmail.com</a>
+  </p>
+  <code>// © Abir Afridi — All rights reserved</code>
+</div>
