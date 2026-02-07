@@ -94,7 +94,7 @@
         <p>Crafting high-performance native Android apps with <b>Kotlin</b> and cross-platform solutions with <b>Flutter</b>. Focusing on <b>Clean Architecture</b>.</p>
       </td>
       <td align="center" width="33%" valign="top">
-        <img src="https://img.icons8.com/isometric/100/laptop-coding.png" width="60" alt="web"/><br/>
+        <img src="https://ouch-prod-var-cdn.icons8.com/vn/styles/previews/IVKdK0OFdzVcfh6x.webp" width="60" alt="web"/><br/>
         <h3>Full Stack Web</h3>
         <p>Building modern, scalable web applications using <b>Next.js</b>, <b>React</b>, and <b>Node.js</b>. Expert in responsive and accessible design.</p>
       </td>
