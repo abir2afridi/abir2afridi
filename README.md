@@ -46,7 +46,7 @@
         </div>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img src="https://threedio-prod-var-cdn.icons8.com/af/preview_sets/previews/JLGr14E9F5J3buRv.webp" width="230" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+        <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-hnBZd7NPCdACrqnwCWtyhSb4e459wM.png&w=320&q=75" width="230" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
       </td>
     </tr>
   </table>
