@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,50,75,100&height=320&section=header&text=Abir%20Hasan%20Siam&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=28&desc=Android%20Architect%20%7C%20Full%20Stack%20Visionary&descAlign=50&descAlignY=51&descSize=25&animation=fadeIn&stroke=000000" width="100%"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Crafting+High-Performance+Android+Apps;Architecting+Scalable+Cloud+Solutions;Innovating+with+AI+and+System+Design;Turning+Complex+Problems+into+Simple+Code" alt="Typing SVG" />
   </a>
