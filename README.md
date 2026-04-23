@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="100%"/>
+  <img src="https://github.com/abir2afridi/abir2afridi/blob/main/images/github-header-banner.png" width="100%"/>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
