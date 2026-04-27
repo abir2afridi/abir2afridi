@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/abir2afridi/abir2afridi/blob/main/images/github-header-banner.png" width="100%"/>
+  <img src="https://github-animatedbanner.vercel.app/api/banner?preset=space&pattern=checker&text=Abir&fontSize=78&animation=fadeIn&desc=Welcome+to+my+profile&descFontSize=22&descColor=%23c3ad0f"/>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
