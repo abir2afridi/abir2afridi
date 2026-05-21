@@ -32,7 +32,7 @@
       <td width="60%" align="left" valign="top">
         <h3><i>"Architecting excellence, one line at a time."</i></h3>
         <p>
-          <b>Abir Hasan Siam</b>, a <b>Software Architect</b> and <b>CS Student</b> at <b>Independent University, Bangladesh</b>. I specialize in the intersection of <b>Native Android</b> and <b>Full-Stack Web</b> ecosystems. 
+          <b>Abir Hasan Siam</b>, a <b>Software Architect</b> and <b>CSE Student</b> at <b>Independent University, Bangladesh</b>. Specialize in the intersection of <b>Native Android</b> and <b>Full-Stack Web</b> ecosystems. 
         </p>
         <p>
           My work is defined by a relentless drive to optimize <b>System Performance</b> and a dedication to <b>Clean Architecture</b>. I believe software should be as <i>robust</i> as it is <i>beautiful</i>.
