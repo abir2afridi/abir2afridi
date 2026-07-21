@@ -32,7 +32,7 @@
       <td width="60%" align="left" valign="top">
         <h3><i>"Architecting excellence, one line at a time."</i></h3>
         <p>
-          <b>Abir Hasan Siam</b>, a <b>Software Architect</b> and <b>CSE Student</b> at <b>Independent University, Bangladesh</b>. Specialize in the intersection of <b>Native Android</b> and <b>Full-Stack Web</b> ecosystems. 
+          <b>Abir Hasan Siam</b>, a <b>Software Engineer & UI Architect</b> and <b>CSE Student</b> at <b>Independent University, Bangladesh</b>. Specialize in the intersection of <b>Native Android</b> and <b>Full-Stack Web</b> ecosystems. 
         </p>
         <p>
           My work is defined by a relentless drive to optimize <b>System Performance</b> and a dedication to <b>Clean Architecture</b>. I believe software should be as <i>robust</i> as it is <i>beautiful</i>.
@@ -147,9 +147,9 @@
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
-| <img src="https://cdn-icons-png.flaticon.com/512/3208/3208727.png" width="40" alt="icon"/> <br/> **A2Orbit Player** | A premium **Offline Music Player** featuring real-time lyrics, dynamic theming, and a high-fidelity audio engine. Built with **Flutter**. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/A2Orbit) |
-| <img src="https://cdn-icons-png.flaticon.com/512/2965/2965313.png" width="40" alt="icon"/> <br/> **Pro File Manager** | A robust **Native Android File Manager** (Kotlin) with MVVM architecture, storage analysis, and secure file handling. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/FileManager) |
-| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="40" alt="icon"/> <br/> **EduCareer AI** | AI-powered career counseling tool helping students find their perfect path based on skills and interests. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=vercel)](https://edu-career-ai-tan.vercel.app/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3208/3208727.png" width="40" alt="icon"/> <br/> **NexLoad-Apk** | A premium **Smart Video Downloader** An Android application for downloading videos and media from the web with a built-in browser, multi-threaded download engine, and private vault. Built with **Kotlin**. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/NexLoad-Apk) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2965/2965313.png" width="40" alt="icon"/> <br/> **Text Processing Toolkit (tpt)** | A free, open-source collection of **165 high-performance text utilities** that run entirely in your browser. Nothing is uploaded — every operation happens locally on your machine. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/TextProcessing-Toolkit) |
+| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="40" alt="icon"/> <br/> **OmniPDF AI — The Ultimate PDF Workspace** | All-in-one PDF management and analysis platform with AI-powered features. 100% client-side processing — your files never leave your browser. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=vercel)](https://github.com/abir2afridi/OmniPDF-Ai) |
 | <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="40" alt="icon"/> <br/> **CosmicExplore** | A gateway to the universe. Explore astronomy data through a beautiful interface using NASA APIs. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/CosmicExplore) |
 | <img src="https://cdn-icons-png.flaticon.com/512/10009/10009969.png" width="40" alt="icon"/> <br/> **QR Generator** | A sleek, fast, and customizable QR Code generator built with modern web tech. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/QR-CodeGenerator) |
 
