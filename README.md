@@ -22,7 +22,7 @@
 
 <br />
 
-### <img src="https://img.icons8.com/?size=96&id=FNbnqlDTjR45&format=gif&color=f7f7f7" width="35"/> **About Me**
+### <img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/verified-badge-gif/icons8-verified-badge-96.gif" width="35"/> **About Me**
 
 <br/>
 
@@ -67,11 +67,11 @@
     </tr>
      <tr>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://threedio-prod-var-cdn.icons8.com/qx/preview_sets/previews/ic7Ov7qv2hFNt6I1.webp" width="30"/> Collaboration</h3>
+         <h3><img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/collaboration/collaboration.png" width="30"/> Collaboration</h3>
          <p>Open for <b>Freelance</b> opportunities and high-impact <b>Open Source</b> contributions.</p>
       </td>
       <td width="50%" align="left" valign="top">
-         <h3><img src="https://threedio-prod-var-cdn.icons8.com/qf/preview_sets/previews/g3Am_bPZdVbbO1Vt.webp" width="30"/> Personal Interests</h3>
+         <h3><img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/owl/image-1UiSBgznQZZjzoqMFEcrcYdR99UYab.png" width="30"/> Personal Interests</h3>
          <p><b>Performance Tuning</b>, <b>Open Source</b>, <b>Gaming</b>, and crafting <b>Minimalist UIs</b>.</p>
       </td>
     </tr>
@@ -80,7 +80,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/jq/preview_sets/previews/gd5yGXS-fZPl1jHH.webp" width="35"/> **What I Do**
+### <img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/love/icons8-heart-balloon.gif" width="35"/> **What I Do**
 
 <br/>
 
@@ -108,7 +108,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/tj/preview_sets/previews/9aBeBWkPhzC1qEK0.webp" width="35"/> **Tech Stack**
+### <img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/service/services.gif" width="35"/> **Tech Stack**
 <div align="center">
   <p><b>Mobile & Languages</b></p>
   <br>
@@ -143,11 +143,11 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/rn/preview_sets/previews/7KP_bZDt3E3gVHNJ.webp" width="35"/> **Featured Projects**
+### <img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/layers/icons8-layers.gif" width="35"/> **Featured Projects**
 
 | **Project** | **Description** | **Links** |
 |:---:|:---|:---:|
-| <img src="https://cdn-icons-png.flaticon.com/512/3208/3208727.png" width="40" alt="icon"/> <br/> **NexLoad-Apk** | A premium **Smart Video Downloader** An Android application for downloading videos and media from the web with a built-in browser, multi-threaded download engine, and private vault. Built with **Kotlin**. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/NexLoad-Apk) |
+| <img src="https://github.com/abir2afridi/CubicLM/blob/main/assets/icons/CubicLM_Icon.png" width="40" alt="icon"/> <br/> **CubicLM** | **CubicLM** is a cross-platform AI client for seamless switching between cloud APIs and local, offline inference of custom and uncensored models.. Built with **Kotlin C++ & more**. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/CubicLM) |
 | <img src="https://cdn-icons-png.flaticon.com/512/2965/2965313.png" width="40" alt="icon"/> <br/> **Text Processing Toolkit (tpt)** | A free, open-source collection of **165 high-performance text utilities** that run entirely in your browser. Nothing is uploaded — every operation happens locally on your machine. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/TextProcessing-Toolkit) |
 | <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="40" alt="icon"/> <br/> **OmniPDF AI — The Ultimate PDF Workspace** | All-in-one PDF management and analysis platform with AI-powered features. 100% client-side processing — your files never leave your browser. | [![Visit](https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge&logo=vercel)](https://github.com/abir2afridi/OmniPDF-Ai) |
 | <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="40" alt="icon"/> <br/> **CosmicExplore** | A gateway to the universe. Explore astronomy data through a beautiful interface using NASA APIs. | [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/abir2afridi/CosmicExplore) |
@@ -155,7 +155,7 @@
 
 ---
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/pm/preview_sets/previews/U1oWyvFsSy7cVygi.webp" width="35"/> **Philosophy**
+### <img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/plant/potted-plant-94.png" width="35"/> **Philosophy**
 
 <div align="center">
   <h3><i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i></h3>
@@ -164,7 +164,7 @@
 
 <br />
 
-### <img src="https://threedio-prod-var-cdn.icons8.com/hx/preview_sets/previews/YadTnoFNBgMCBY2F.webp" width="35"/> **Connect With Me**
+### <img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/love/love-potion.gif" width="35"/> **Connect With Me**
 <div align="center">
   <a href="https://linkedin.com/in/abir2afridi">
     <img src="https://skillicons.dev/icons?i=linkedin" />
