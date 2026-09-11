@@ -125,7 +125,7 @@
 
 ---
 
-### <img src="https://img.icons8.com/?size=160&id=ObCtn0GYNM6a&format=png" width="35"/> **GitHub Statistics**
+### <img src="https://github.com/abir2afridi/abir2afridi/blob/main/asset/git/icons8-github.gif" width="35"/> **GitHub Statistics**
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abir2afridi&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
